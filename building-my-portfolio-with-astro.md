@@ -1,7 +1,7 @@
 ---
 title: "Building my Portfolio with Astro"
 description: "How I built this portfolio using Astro, Tailwind CSS, and Preact."
-pubDate: 2024-01-01
+pubDate: 2026-06-04
 ---
 
 # Welcome to my blog!

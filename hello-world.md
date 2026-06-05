@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 description: "A classic beginning to a new journey. This is my very first 'Hello World' post on this blog."
-pubDate: 2024-01-01
+pubDate: 2026-06-04
 heroImage: "/og-image.png"
 ---
 
